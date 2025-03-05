@@ -14,7 +14,7 @@ My name is Duong Hoang Anh Khoa<br>I'm an IT student from RMIT with more than 1 
       </a>
   </p>
 
-📌 **Description:** An AI-driven accessibility tool designed to enhance the independence and daily experiences of visually impaired users. By leveraging advanced object detection, real-time text-to-speech conversion, and intuitive audio feedback, the system provides seamless assistance in navigation, object recognition, and real-time situational awareness. Features:  
+🎯 **Description:** An AI-driven accessibility tool designed to enhance the independence and daily experiences of visually impaired users. By leveraging advanced object detection, real-time text-to-speech conversion, and intuitive audio feedback, the system provides seamless assistance in navigation, object recognition, and real-time situational awareness. Features:  
 ✅ Object Detection with audio cues support  
 ✅ Real-time text-to-speech support for instant assistance  
 ✅ Emergency alerts & volunteer video call system 
@@ -27,7 +27,7 @@ My name is Duong Hoang Anh Khoa<br>I'm an IT student from RMIT with more than 1 
       </a>
   </p>
 
-📌 **Description:** A console-based auction application provides a streamlined platform for users to engage in online bidding and marketplace transactions. Designed for simplicity and efficiency, the system allows users to list items for auction, place bids in real-time, and securely complete transactions—all within a user-friendly command-line interface. Features:  
+🎯 **Description:** A console-based auction application provides a streamlined platform for users to engage in online bidding and marketplace transactions. Designed for simplicity and efficiency, the system allows users to list items for auction, place bids in real-time, and securely complete transactions—all within a user-friendly command-line interface. Features:  
 ✅ User authentication & role-based access  
 ✅ Live auction capability with up-to-the-second updates  
 ✅ Secure bidding process with integrated payment solutions 
@@ -40,7 +40,7 @@ My name is Duong Hoang Anh Khoa<br>I'm an IT student from RMIT with more than 1 
       </a>
   </p>
 
-📌 **Description:** A lightweight e-commerce website designed with a strong emphasis on front-end development, providing an intuitive and responsive user experience. The back-end utilizes CSV files to manage and store data instead of a traditional database, ensuring simplicity and ease of data handling. Features:  
+🎯 **Description:** A lightweight e-commerce website designed with a strong emphasis on front-end development, providing an intuitive and responsive user experience. The back-end utilizes CSV files to manage and store data instead of a traditional database, ensuring simplicity and ease of data handling. Features:  
 ✅ Supports different user roles (vendor, shipper, customer) with authentication, registration, and personalized account access  
 ✅ Allows vendors to list products, customers to browse and purchase items, and shippers to manage deliveries  
 ✅ Runs on a local server, with a structured navigation system linking all pages, ensuring seamless access based on user roles 
