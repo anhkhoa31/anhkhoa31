@@ -29,7 +29,7 @@ My name is Duong Hoang Anh Khoa<br>I'm an IT student from RMIT with more than 1 
 
 📌 **Description:** A console-based auction application provides a streamlined platform for users to engage in online bidding and marketplace transactions. Designed for simplicity and efficiency, the system allows users to list items for auction, place bids in real-time, and securely complete transactions—all within a user-friendly command-line interface. Features:  
 ✅ User authentication & role-based access  
-✅ Live auction capability with up-to-the-minute updates  
+✅ Live auction capability with up-to-the-second updates  
 ✅ Secure bidding process with integrated payment solutions 
 
 ### 🔹 [E-commerce Website](https://github.com/anhkhoa31/e-commerce-website)  
