@@ -1,13 +1,53 @@
-![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)
-<h1 align="center">Hi 👋, I'm Khoa</h1>
-<h3 align="center">I'm an IT student from RMIT with more than 1 year of experience</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+# 💫 About Me:
+My name is Duong Hoang Anh Khoa<br>I'm an IT student from RMIT with more than 1 year of experience<br>📄 Avenue to Success<br>📄 Concentrix Vietnam
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1p5jSxWNCUCDEGKSVgvtdKNCcoK-_i9iz/view?usp=sharing](https://drive.google.com/file/d/1p5jSxWNCUCDEGKSVgvtdKNCcoK-_i9iz/view?usp=sharing)
 
-- 📄 Know about my experiences **https://drive.google.com/file/d/1K8jqROe07YTRHgm9ZBI_0HbqzE41SvF9/view?usp=sharing**
-<p align="left">
-</p>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+## 🎯 Completed Projects:
+### 🔹 [GuidanceAid](https://github.com/anhkhoa31/SEPM-GuidanceAid)  
+🔧 **Tech Stack:**   
+ <p align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=swift,firebase,apple,figma,github" />
+      </a>
+  </p>
+
+📌 **Description:** An AI-driven accessibility tool designed to enhance the independence and daily experiences of visually impaired users. By leveraging advanced object detection, real-time text-to-speech conversion, and intuitive audio feedback, the system provides seamless assistance in navigation, object recognition, and real-time situational awareness. Features:  
+✅ Object Detection with audio cues support  
+✅ Real-time text-to-speech support for instant assistance  
+✅ Emergency alerts & volunteer video call system 
+
+### 🔹 [Auction System](https://github.com/anhkhoa31/auction-system)  
+🔧 **Tech Stack:**  
+<p align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=cpp,github" />
+      </a>
+  </p>
+
+📌 **Description:** A console-based auction application provides a streamlined platform for users to engage in online bidding and marketplace transactions. Designed for simplicity and efficiency, the system allows users to list items for auction, place bids in real-time, and securely complete transactions—all within a user-friendly command-line interface. Features:  
+✅ User authentication & role-based access  
+✅ Live auction capability with up-to-the-minute updates  
+✅ Secure bidding process with integrated payment solutions 
+
+### 🔹 [E-commerce Website](https://github.com/anhkhoa31/e-commerce-website)  
+🔧 **Tech Stack:**  
+<p align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,javascript,css,php,github" />
+      </a>
+  </p>
+
+📌 **Description:** A lightweight e-commerce website designed with a strong emphasis on front-end development, providing an intuitive and responsive user experience. The back-end utilizes CSV files to manage and store data instead of a traditional database, ensuring simplicity and ease of data handling. Features:  
+✅ Supports different user roles (vendor, shipper, customer) with authentication, registration, and personalized account access  
+✅ Allows vendors to list products, customers to browse and purchase items, and shippers to manage deliveries  
+✅ Runs on a local server, with a structured navigation system linking all pages, ensuring seamless access based on user roles 
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vutrongnhannguyen/vutrongnhannguyen/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vutrongnhannguyen/vutrongnhannguyen/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/vutrongnhannguyen/vutrongnhannguyen/output/github-snake.svg" />
+</picture>
