@@ -32,7 +32,7 @@ My name is Duong Hoang Anh Khoa<br>I'm an IT student from RMIT with more than 1 
 ✅ Live auction capability with up-to-the-second updates  
 ✅ Secure bidding process with integrated payment solutions 
 
-### 🔹 [E-commerce Website](https://github.com/anhkhoa31/e-commerce-website)  
+### 🔹 [ShopLite](https://github.com/anhkhoa31/e-commerce-website)  
 🔧 **Tech Stack:**  
 <p align="center">
       <a href="https://skillicons.dev">
